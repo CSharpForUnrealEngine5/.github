@@ -6,24 +6,19 @@ of simple games for Unreal Engine 5 implemented (primarily) in C#.
 
 There are two repositories that are available:
 
-[Compiler](https://github.com/CSharpForUnrealEngine5/Compiler) - This contains the C# to C++ transpilor
+[CsToCpp](https://github.com/CSharpForUnrealEngine5/CsToCpp) - This contains the C# to C++ transpilor
 as well as the GameFramework Library and the Cpp.Utilities.
 
-[CSharpExamples](https://github.com/CSharpForUnrealEngine5/CSharpExamples) - Examples of how C# is used 
-to write Unreal Engine games.
+[CsThirdPerson](https://github.com/CSharpForUnrealEngine5/CsThirdPerson) - Unreal Engine 5 Third Person 
+Template implemented in C#.
+
+[CsFirstPerson](https://github.com/CSharpForUnrealEngine5/CsFirstPerson) - Unreal Engine 5 First Person 
+Template implemented in C#.
+
+[CsTopDown](https://github.com/CSharpForUnrealEngine5/CsTopDown) - Unreal Engine 5 TopDown
+Template implemented in C#.
 
 The following screenshot shows C# source code from the Third Person example
 
 ![Screenshot 2023-07-18 131914](https://github.com/CSharpForUnrealEngine5/.github/assets/342910/b9f18bf4-1cda-4d84-a1dc-43afc8ae4bbb)
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
